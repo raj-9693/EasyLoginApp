@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "826532288678",
+    "firebase_url": "https://student-app-final-default-rtdb.firebaseio.com",
+    "project_id": "student-app-final",
+    "storage_bucket": "student-app-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826532288678:android:fa7fe061566dfa0d097c67",
+        "android_client_info": {
+          "package_name": "com.example.protej.easyloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABPFwWUvTZgX1R6yx6l3jNI2Fum0zM-0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826532288678:android:d0c2403fe5e0d32d097c67",
+        "android_client_info": {
+          "package_name": "com.example.protej.student_app_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABPFwWUvTZgX1R6yx6l3jNI2Fum0zM-0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
