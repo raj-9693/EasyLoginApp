@@ -52,8 +52,9 @@
                         android:layout_marginTop="10dp"
                         android:background="@drawable/edittext_bg"
                         android:hint="UserName"
+                        android:inputType="textCapCharacters"
                         android:textStyle="bold"
-                        android:inputType="textPersonName"
+
                         android:padding="12dp" />
 
 
